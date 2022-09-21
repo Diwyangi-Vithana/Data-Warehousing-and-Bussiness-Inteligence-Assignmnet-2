@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "HealthCare_SSRS", "HealthCare_SSRS\HealthCare_SSRS.rptproj", "{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Debug|Default.ActiveCfg = Debug
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Debug|Default.Build.0 = Debug
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Debug|Default.Deploy.0 = Debug
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.DebugLocal|Default.Build.0 = DebugLocal
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Release|Default.ActiveCfg = Release
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Release|Default.Build.0 = Release
+		{DC2AF2C2-9C11-4CAF-8AB9-21637CD929FF}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F370A4A-05B8-44D5-A69E-953117D1FD1D}
+	EndGlobalSection
+EndGlobal
